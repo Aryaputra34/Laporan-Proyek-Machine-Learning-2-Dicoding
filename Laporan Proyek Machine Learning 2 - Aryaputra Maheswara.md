@@ -236,7 +236,9 @@ Formula precision dapat dijelaskan sebagai berikut:
 
 ### Hasil Akhir
 
-![Formula Metric](asset/precission.png)
+<p align="center">
+    <img src="asset/precission.png" alt="Precission" />
+</p>
 
 Dari data diatas didapatkan rata - rata nilai precission adalah 0.86 yang bisa dibilang cukup bagus, namun nilai tersebut akan berubah-ubah tergantung dengan preferensi dari user.
 
